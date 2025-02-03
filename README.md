@@ -1,1 +1,1 @@
-"This is my first git assignment" 
+"This is my first git assignmen but my second try" 
